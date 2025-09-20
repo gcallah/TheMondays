@@ -35,8 +35,7 @@ ptml: $(PTMLFILES)
 
 prod: local tests
 	-git commit -a 
-	git pull origin master
-	git push origin master
+	git push origin main
 
 submods:
 	git submodule foreach 'git pull origin master'
