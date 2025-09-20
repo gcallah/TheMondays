@@ -1,0 +1,30 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            The Mondays
+        </title>
+    </head>
+
+ <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+<h1>The Mondays</h1>
+<h2>What We Do</h2>
+<p>The Mondays specialize in high-quality dance music.
+We are available for private parties and weddings.
+</p>
+<h2>Photos</h2>
+<p>Here are some photos of us at work:</p>
+<div class="container">
+    <img src="images/superstition.png" alt="Very Superstitious" width="20%"
+    style="vertical-align:middle;margin:10px 10px">
+</div>
+    <br>
+    <br>
+<div class="container">
+</div>
+
+</body>
+</html>

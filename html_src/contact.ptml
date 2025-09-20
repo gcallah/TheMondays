@@ -1,0 +1,18 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            The Mondays: Contact Information
+        </title>
+    </head>
+
+<body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+<h1>The Mondays: Contact Information</h1>
+<p>You can contact us:</p>
+<p>Phone: 917-882-4441</p>
+<p>Email: gcallah@mac.com</p>
+</body>
+</html>

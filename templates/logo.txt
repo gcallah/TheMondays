@@ -1,0 +1,14 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%"><img
+				src="images/Tie_dye_spiral.jpg" width="10%">
+			</figure>
+        </div>
+
